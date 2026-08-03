@@ -1,0 +1,2 @@
+# nextjs-scripts
+nextjs project
